@@ -1,3 +1,1 @@
 pyTelegramBotAPI==4.15.2
-sqlite3
-random2==1.0.1
